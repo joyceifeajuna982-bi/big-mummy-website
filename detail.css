@@ -1,0 +1,62 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #000;
+    font-family: Arial;
+    color: white;
+    
+}
+img{
+    width: 30%;
+    height: 70vh;
+    border-radius: 1rem;
+    margin-top: -60px;
+    left: 20rem;
+    margin-left: 40px;
+}
+h1{
+    margin: 20px 0 10px;
+    font-size: 2.5rem;
+}
+p{
+    opacity: .8;
+    font-size: 1.2rem;
+}
+#a1{
+    color: gold;
+    text-decoration: none;
+    align-self: left;
+    justify-self: left;
+    display: flex;
+    padding: 30px;
+    font-size: 1.20rem;
+    padding: 20px;
+}
+#next{
+    color: gold;
+    text-decoration: none;    display: inline-block;
+    padding: 10px;
+    font-size: 1.50rem;
+}
+#prev{
+    color: gold;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1.50rem;
+}
+#title{
+    font-size: 2rem;
+    color: gold;
+}
+#desc{
+    color: #ddd;
+    font-size: 0.90rem;
+}
+.cont1{
+    left: 40rem;
+    top: 0;
+    position: relative;
+}
